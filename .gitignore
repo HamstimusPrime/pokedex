@@ -1,2 +1,3 @@
 pokedex
 .vscode/
+internal/pokecache/cache_test.go
